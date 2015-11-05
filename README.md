@@ -14,8 +14,8 @@ Go to Twitter-Sentimental_Analysis_Tool,
 double click the "Lamba.jar" file.
 Then go into dist/lib folder.
 
-To run the project from the command line, go to the dist folder (same place which is  described above )and
-type the following: 
+To run the project from the command line, go to the dist folder (same place which is  described above)
+and type the following: 
 
 java -jar "Lamba.jar" 
 
